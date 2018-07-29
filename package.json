@@ -1,0 +1,23 @@
+{
+  "name": "conv-solidity-to-bytecode",
+  "version": "1.0.0",
+  "description": "Converting solidity to bytecode to be pushed to Ethereum Mainnet or testnet",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prahaladbelavadi/conv-solidity-to-bytecode.git"
+  },
+  "keywords": [
+    "etherrum",
+    "solidity"
+  ],
+  "author": "Prahaladbelavadi@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/prahaladbelavadi/conv-solidity-to-bytecode/issues"
+  },
+  "homepage": "https://github.com/prahaladbelavadi/conv-solidity-to-bytecode#readme"
+}
