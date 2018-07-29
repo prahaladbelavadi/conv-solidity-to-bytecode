@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/prahaladbelavadi/conv-solidity-to-bytecode/issues"
   },
-  "homepage": "https://github.com/prahaladbelavadi/conv-solidity-to-bytecode#readme"
+  "homepage": "https://github.com/prahaladbelavadi/conv-solidity-to-bytecode#readme",
+  "dependencies": {
+    "solc": "^0.4.24"
+  }
 }
